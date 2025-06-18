@@ -4,8 +4,7 @@ Created on Mon Jun 22 10:10:17 2020
 """
 import os.path as path
 from algo.RF_Classes.IQData import IQData
-from algo.geo_utils.tdoa import tdoa
-from algo.geo_utils.geolocation_solve_tdoa import solve_pos_by_tdoa
+from algo.geo_utils.geolocation_solve_tdoa import solve_pos_by_tdoa, tdoa
 from sensors_metadata.sensors import Sensors
 from utils.gis.gis import longlat2utm
 from utils.gis.plotmap import mymap
