@@ -1,0 +1,58 @@
+{
+  "maps": [
+    {
+      "ID": "ISRAEL",
+      "name": "ישראל",
+      "filename": "map-israel.png",
+      "bounds_west": 34.07409667968751,
+      "bounds_east": 35.92529296875001,
+      "bounds_south": 29.477861195816843,
+      "bounds_north": 33.34888479220172
+    },
+    {
+      "ID": "ISRAEL_NORTH",
+      "name": "ישראל-צפון",
+      "filename": "map-israel-north.png",
+      "bounds_west": 34.84863281250001,
+      "bounds_east": 35.93902587890626,
+      "bounds_south": 32.410110328024494,
+      "bounds_north": 33.36953127791294
+    },
+    {
+      "ID": "ISRAEL_CENTER_NORTH",
+      "name": "ישראל-מרכזצפו",
+      "filename": "map-israel-center-north.png",
+      "bounds_west": 34.59869384765626,
+      "bounds_east": 35.94451904296876,
+      "bounds_south": 31.781882156411047,
+      "bounds_north": 33.342001541915614
+    },
+    {
+      "ID": "ISRAEL_CENTER",
+      "name": "ישראל-מרכז",
+      "filename": "map-israel-center.png",
+      "bounds_west": 34.60281372070313,
+      "bounds_east": 35.57922363281251,
+      "bounds_south": 31.779547369387327,
+      "bounds_north": 32.50281289041497
+    },
+    {
+      "ID": "ISRAEL_SOUTH",
+      "name": "ישראל-דרום",
+      "filename": "map-israel-south.png",
+      "bounds_west": 34.04663085937501,
+      "bounds_east": 35.60119628906251,
+      "bounds_south": 29.46829664171322,
+      "bounds_north": 31.83089906339438
+    },
+    {
+      "ID": "OTEF_GAZA",
+      "name": "עוטף עזה",
+      "filename": "map-otef-gaza.png",
+      "bounds_west": 34.21142578125001,
+      "bounds_east": 35.19332885742188,
+      "bounds_south": 31.22395859822874,
+      "bounds_north": 31.718238135178932
+    }
+  ]
+}
